@@ -6,9 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link href="/css/style.css" rel="stylesheet">
 </head>
 <body>
-    <h1>INDEX Working!!!</h1>
-    Hello, ${nome}!!!
+    <h2 class="hello-title">Hello, ${nome}!!!</h2>
+    <script src="/js/main.js"></script>
 </body>
 </html>
