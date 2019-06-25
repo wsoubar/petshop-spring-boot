@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +9,7 @@
 </head>
 <body>
     <h2 class="hello-title">Hello, ${nome}!!!</h2>
+
     <script src="/js/main.js"></script>
 </body>
 </html>
